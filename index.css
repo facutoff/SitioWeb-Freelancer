@@ -1,0 +1,15 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 16px;
+    font-family: 'Saira Condensed', sans-serif;
+}
+.titulo {
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 400;
+}
+.titulo span {
+    font-size: 2rem;
+}
